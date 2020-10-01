@@ -1,0 +1,41 @@
+.navbar {
+    /*background-color: #e9ecef;*/
+    background-color: #7FDBFF;
+}
+
+.navbar .navbar-nav {
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar a {
+    color: black;
+    margin: 0.5rem;
+}
+
+.navbar a:hover, a:active, a.active {
+    color: orange;
+    text-decoration-line: none;
+}
+
+#languages {
+
+}
+
+#french {
+    background-image: url("https://drive.google.com/uc?export=view&id=1LyuHW7s5AAYfikHSBhf_m606K3DdeZmu");
+    margin: 2px;
+    height: 16px;
+    width: 20px;
+    display: inline block;
+}
+
+#english {
+    background-image: url("https://drive.google.com/uc?export=view&id=1TTb_hRps9aPNEEBKR2xWaEvNiJrpKa7u");
+    margin: 2px;
+    height: 16px;
+    width: 20px;
+    display: inline-block;
+}

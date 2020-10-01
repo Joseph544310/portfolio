@@ -1,0 +1,250 @@
+{
+  "fullName": "Joseph Sabbagh",
+  "phoneNumber": "+33 07 49 19 58 47",
+  "nationality": "Libanais/Francais",
+  "email": "joseph544310@gmail.com",
+  "address": {
+    "country": "France",
+    "city": "Montpellier",
+    "street": "480 Avenue du Major Flandres",
+    "postalCode": "34090"
+  },
+  "languages": {
+    "natural": [
+      {
+        "name": "Arabe",
+        "score": 5
+      },
+      {
+        "name": "Anglais",
+        "score": 4
+      },
+      {
+        "name": "Francais",
+        "score": 4
+      }
+    ],
+    "programming": [
+      {
+        "name": "C++",
+        "score": 4
+      },
+      {
+        "name": "Python",
+        "score": 4
+      },
+      {
+        "name": "Java",
+        "score": 3
+      },
+      {
+        "name": "SQL",
+        "score": 3
+      },
+      {
+        "name": "Javascript",
+        "score": 3
+      },
+      {
+        "name": "HTML",
+        "score": 3
+      },
+      {
+        "name": "CSS",
+        "score": 2
+      }
+    ]
+  },
+  "technologies": [
+    {
+      "name": "Node.js",
+      "score": 3
+    },
+    {
+      "name": "Express.js",
+      "score": 3
+    },
+    {
+      "name": "React.js",
+      "score": 3
+    },
+    {
+      "name": "Qt Creator",
+      "score": 3
+    },
+    {
+      "name": "MySQL",
+      "score": 3
+    }
+  ],
+  "education": [
+    {
+      "header": "Ecole",
+      "items": [
+        {
+          "title": "Ecole Zahrat-El-Ihsan",
+          "text": "Baccalauréat Libanais - Sciences Générales",
+          "date": "2001-2016",
+          "links": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "header": "Université",
+      "items": [
+        {
+          "title": "American University of Beirut",
+          "text": "Diplome: Bacherlor's of Engineering\nSpécialité: Computer and Communications Engineering",
+          "date": "2016-2020",
+          "links": [],
+          "images": [
+            {
+              "name": "Diplome",
+              "source": "https://drive.google.com/uc?export=view&id=125rUhSzwFVypfJ1spxS7H_RQxlCiwY9N"
+            },
+            {
+              "name": "Années d'étude",
+              "source": "https://drive.google.com/uc?export=view&id=18LTjbHclsn-M1KfLbk8ipBGxXlClN3K4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Udemy.com",
+      "items": [
+        {
+          "title": "The Web Developer Bootcamp",
+          "text": "Un cours sur le frontend (HTML, CSS, Bootstrap4) et le backend (NodeJS, ExpressJS, MongoDB) tout en realisant un site de blog.",
+          "date": "Juillet 2020",
+          "links": [
+            {
+              "href": "http://ude.my/UC-6910e2f4-c452-45de-867d-030163463fc3",
+              "text": "Certificat"
+            }
+          ],
+          "images": []
+        },
+        {
+          "title": "The Ultimate MySQL Bootcamp",
+          "text": "Un cours de SQL(basic syntax, aggregate functions, logical operators, joins, etc...) tout en realisant une appli web avec MySQL and Node.js.",
+          "date": "Aout 2020",
+          "links": [
+            {
+              "href": "http://ude.my/UC-8ee80c9a-7983-4712-8341-d4f565056eb3/",
+              "text": "Certificat"
+            }
+
+          ],
+          "images": []
+        },
+        {
+          "title": "React - The Complete Guide",
+          "text": "Un cours sur Reactjs, Hooks, Redux, React Routing etc... tout en les appliquants dans un projet.",
+          "date": "Aout 2020",
+          "links": [
+            {
+              "href": "http://ude.my/UC-77da2e39-44a7-4d8c-b9d5-c2a7ed67ff90",
+              "text": "Certificat"
+            }
+          ],
+          "images": []
+        }
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "header": "Systeme de gestion pour une école",
+      "items": [
+        {
+          "title": "",
+          "text": "Dévéloppement d’une application web, par une équipe de 5, afin de faciliter les opérations administratives d’une école - Django, Python.",
+          "date": "2018",
+          "links": [
+            {
+              "href": "https://bitbucket.org/jgs22/django-app/src/master/",
+              "text": "BitBucket"
+            }
+          ],
+          "images": []
+        }
+      ]
+
+    },
+    {
+      "header": "Plateforme de jeux videos",
+      "items": [
+        {
+          "title": "",
+          "text": "Dévéloppement d’une platforme de jeux vidéos contenant deux jeux : Snakes and Ladders | Cabo Card Game. - QT creator, C++, Git",
+          "date": "2019",
+          "links": [
+            {
+              "href": "https://bitbucket.org/antounmalkoun/project_ja_9/src/master/",
+              "text": "BitBucket"
+            }
+          ],
+          "images": []
+        }
+      ]
+
+    },
+    {
+      "header": "Final Year Project",
+      "items": [
+        {
+          "title": "",
+          "text": "Privacy for video surveillance in childcare centers.\nUsed pre-trained models (face detection - tracking) and developed a face recognition system to process the video before sending each parent a new version of that video in which they can see their child but other children's faces are blurred. - Python, OpenCV",
+          "date": "2020",
+          "links": [
+            {
+              "href": "https://colab.research.google.com/drive/1tlDfCEg89ndwHTemM1eIRb13MsKSy3ga?usp=sharing",
+              "text": "Google Colab Notebook"
+            }
+          ],
+          "images": []
+        }
+      ]
+
+    }
+  ],
+  "experience": [
+    {
+      "header": "Stage",
+      "items": [
+        {
+          "title": "Everteam Global Services",
+          "text": "Stage Machine learning. Construction de deux modèles de machine learning en utilisant Tensorflow:/nAnalyse des sentiments des tweet en arabe./nDétection et identification des plaques d'immatriculation libanaises.",
+          "date": "Juin 2019 - Aout 2019",
+          "links": [],
+          "images": [
+            {
+              "name": "Attestation",
+              "source": "https://drive.google.com/uc?export=view&id=1XwbCluAAwAcAwj8buYxQSXwX28sphb5B"
+            }
+          ]
+        }
+      ]
+
+    },
+    {
+      "header": "Assistant chargé d’un cours d’informatique ",
+      "items": [
+        {
+          "title": "Assistance de l’enseignant en 'Introduction to Programming'.",
+          "text": "Supervision des élèves débutants en programmation en les aidant à combler leurs lacunes.",
+          "date": "Septembre 2019 - Decembre 2019",
+          "links": [],
+          "images": []
+        }
+      ]
+
+    }
+  ],
+
+  "image": "https://drive.google.com/uc?export=view&id=1sUn7BzNfW12g-tqnu-XFmfIe9tD9bcdO",
+  "introduction": "I graduated from the American University of Beirut with a Bachelor's of Engineering degree in Computer and Communications Engineering in June 2020.\n I then moved to France and I am currently looking for an internship to start my career as a software developer. "
+}

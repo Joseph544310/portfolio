@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+    /*background-color: #e9ecef;*/
+    background-color: #7FDBFF;
+    min-height: 100%;
+    width: 100%;
+}
+
+.row {
+    margin: 0;
+}
+
+.card {
+    margin-top: 1rem;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

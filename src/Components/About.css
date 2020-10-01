@@ -1,0 +1,40 @@
+.About {
+    line-height: 1.5rem;
+    padding-top: 1rem;
+}
+
+.About .jumbotron {
+/*    background-color: white;*/
+}
+
+.About p {
+    margin: 0;
+}
+
+.About ul {
+    display: inline-block;
+    list-style-type: none;
+    width: 100%;
+}
+
+#introduction {
+    margin: 3rem;
+    text-align: left;
+}
+
+#profilepic {
+    height: 300px;
+    width: 200px;
+}
+
+/*#natural-languages {
+    background-color: #e9ecef;
+}
+
+#programming-languages {
+    background-color: #e9ecef;
+}
+
+#technologies {
+    background-color: #e9ecef;
+}*/

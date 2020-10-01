@@ -1,0 +1,14 @@
+ul {
+    display: inline-block;
+    list-style-type: none;
+    width: 100%;
+}
+
+li {
+    margin: 2rem;
+}
+
+.progress {
+    background-color: white!important; 
+
+}
