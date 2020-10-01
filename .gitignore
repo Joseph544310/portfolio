@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+#react
+node_modules/
+.vs
+build
